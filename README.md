@@ -10,7 +10,7 @@ I'm a dedicated web developer with a passion for creating engaging, responsive, 
 - 💡 I specialize in JavaScript, React, and Node.js, but I'm also familiar with a wide range of other technologies in the web development ecosystem.
 - 📚 Constantly learning, I'm currently diving deeper into web developm, aiming to expand my expertise.
 - 👨‍👩‍👧 Outside of coding, I enjoy [swimming and also sporting], which helps me maintain a balanced and creative mindset.
-- 📫  You can reach me at [my email](mailto:kamenealexmumo@gmail.com)
+- 📫  You can reach me at [my email](mailto:mumo18035@gmail.com)
 
 
 <b>#lets connect</b>
