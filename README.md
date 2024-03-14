@@ -1,6 +1,6 @@
 # Hello, I'm Alex Kamene! 👨‍💻
 
-![Alex Kamene - Web Developer](https://yourimageurl.com/your-image.jpg)
+![Alex Kamene - Web Developer](https://img.lovepik.com/photo/50077/3692.jpg_wh860.jpg)
 
 I'm a dedicated web developer with a passion for creating engaging, responsive, and efficient websites and applications. With a foundation in both front-end and back-end technologies, I aim to deliver seamless user experiences that are not only visually appealing but also functionally robust. My journey in web development is driven by a relentless pursuit of learning and improvement, always exploring new technologies and methodologies to stay ahead of the curve.
 
