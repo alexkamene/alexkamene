@@ -17,7 +17,7 @@ I'm a dedicated web developer with a passion for creating engaging, responsive, 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alex_Kamene-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/alex-kamene-0003932b6)
   [![Twitter](https://img.shields.io/badge/Twitter-@AlexKamene-blue?style=flat-square&logo=twitter)](https://twitter.com/alexkamene)
-  [![Instagram](https://img.shields.io/badge/Telegram-@alexkamene-red?style=flat-square&logo=instagram)](https://www.t.me.com/alexkamene1)
+  [![Instagram](https://img.shields.io/badge/Telegram-@alexkamene-red?style=flat-square&logo=instagram)](https://t.me/alexkamene1)
   [![GitHub](https://img.shields.io/badge/GitHub-AlexKamene-lightgrey?style=flat-square&logo=github)](https://github.com/AlexKamene)
 
 
