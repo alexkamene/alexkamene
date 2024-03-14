@@ -13,12 +13,11 @@ I'm a dedicated web developer with a passion for creating engaging, responsive, 
 - 📫  You can reach me at [my email](mailto:kamenealexmumo@gmail.com)
 
 
-#lets connect
+<b>#lets connect</b>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alex_Kamene-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/alex-kamene-0003932b6)
   [![Twitter](https://img.shields.io/badge/Twitter-@AlexKamene-blue?style=flat-square&logo=twitter)](https://twitter.com/alexkamene)
 [![Telegram](https://img.shields.io/badge/Telegram-AlexKamene-blue?style=flat-square&logo=telegram)](https://t.me/alexkamene1)
-
   [![GitHub](https://img.shields.io/badge/GitHub-AlexKamene-lightgrey?style=flat-square&logo=github)](https://github.com/AlexKamene)
 
 
